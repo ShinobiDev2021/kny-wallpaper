@@ -8,10 +8,10 @@
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-2904243632235887~4413196578",
-        "banner_id": "ca-app-pub-2904243632235887/5534706553",
-        "popup_id": "ca-app-pub-2904243632235887/1771910739",
-        "reward_id": "ca-app-pub-2904243632235887/4915759457"
+        "app_id": "ca-app-pub-8118635853638933~5154560469",
+        "banner_id": "ca-app-pub-8118635853638933/9897597161",
+        "popup_id": "ca-app-pub-8118635853638933/3869043732",
+        "reward_id": "ca-app-pub-8118635853638933/4990553710"
       },
        {
         "name": "unity",
